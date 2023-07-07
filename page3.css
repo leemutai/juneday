@@ -1,0 +1,28 @@
+#container{
+    background: #de2f2f;
+    border: 2px solid black;
+    border-radius: 5px;
+
+}
+
+
+
+#fixed-position{
+    position: fixed;
+    background-color: black;
+    color: white;
+}
+#relative-1{
+    background: #42ad18;
+    border: 1px solid black;
+    height: 100px;
+}
+
+#relative-2{
+    position: relative;
+    left: 20px;
+    top: 30px;
+    background: yellow;
+    border: 1px solid rgb(98, 29, 218);
+    height: 100px;
+}

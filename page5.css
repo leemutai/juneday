@@ -1,0 +1,41 @@
+a:visited {
+    background: black;
+    color: white;
+}
+#para-1:after{
+    content: "@#333#";
+   
+}
+
+#para-2{
+    word-spacing: 20px;
+    letter-spacing: 10px;
+}
+
+footer {
+    clear: both;
+    background-color: black;
+    color: white;
+}
+
+ol{
+    list-style-type: lower-greek;
+    list-style-position: outside;
+}
+body {
+    background: #43982f;
+}
+#wrapper {
+    margin: 0 auto;
+    background-color: white;
+    width: 800px;
+    height: 1000px;
+}
+header {
+    padding: 0px opx 10px 0px;
+}
+#horzNav {
+    display: block;
+    background: black;
+    color: white;
+}

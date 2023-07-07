@@ -1,0 +1,57 @@
+ #normal{
+    font-style: normal;
+ }
+
+ #italic{
+    font-style: italic;
+ }
+ #oblique{
+    font-style: oblique;
+    
+ }
+ 
+ #smallcap{
+    font-variant: small-caps;
+ }
+ #Wnormal{
+    font-weight: normal;
+ }
+ #Wbolder {
+    font-weight: bolder;
+ }
+ #Wbold{
+    font-weight: bold;
+ }
+
+ #xxlarge{
+    font-size: x-large;
+ }
+
+ #large{
+    font-size: large;
+ }
+ #medium{
+    font-size: medium;
+ }
+ #small{
+    font-size: small;
+ }
+ #xxsmall{
+    font-size: xx-small;
+ }
+ #xxsmall{
+    font-size: 25pt;
+ }
+
+ #linenormal{
+    line-height: 200%;
+ }
+
+ ol{
+   width: 100px;
+   padding: 100px;
+   margin: 100px auto;
+   background: #000;
+   color: white;
+   overflow: scroll;
+}

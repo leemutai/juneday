@@ -1,0 +1,12 @@
+#whitespace-pre{
+    white-space: pre;
+}
+#left-right{
+    direction: ltr;
+
+}
+
+#right-left {
+    direction: rtl;
+
+}
